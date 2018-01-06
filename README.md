@@ -7,7 +7,7 @@ This cheat sheet is an attempt to present common parts of OTP behaviors in a one
 - [Supervisor](#supervisor)
   - [Init](#init)
 - [Gen Server](#gen-server)
-  - [Init](#init)
+  - [Init](#init-1)
   - [Sync operation](#sync-operation)
 
 ## Supervisor
