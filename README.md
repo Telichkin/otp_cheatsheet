@@ -9,6 +9,7 @@ This cheat sheet is an attempt to present common parts of OTP behaviors in a one
 - [Gen Server](#gen-server)
   - [Init](#init-1)
   - [Sync operation](#sync-operation)
+  - [Async operation](#async-operation)
 
 ## Supervisor
 
@@ -22,3 +23,6 @@ This cheat sheet is an attempt to present common parts of OTP behaviors in a one
 
 #### Sync operation 
 <img src="https://rawgit.com/Telichkin/otp_cheatsheet/master/pictures/gen_server_call.svg" width="100%">
+
+#### Async operation
+<img src="https://rawgit.com/Telichkin/otp_cheatsheet/master/pictures/gen_server_cast.svg" width="100%">
