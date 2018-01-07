@@ -11,6 +11,7 @@ This cheat sheet is an attempt to present common parts of OTP behaviors in one p
   - [Sync operation](#sync-operation)
   - [Async operation](#async-operation)
   - [Info message](#info-message)
+  - [Terminate](#terminate)
 
 ## Supervisor
 
@@ -30,3 +31,6 @@ This cheat sheet is an attempt to present common parts of OTP behaviors in one p
 
 #### Info message
 <img src="https://rawgit.com/Telichkin/otp_cheatsheet/master/pictures/gen_server_info.svg" width="100%">
+
+#### Terminate
+<img src="https://rawgit.com/Telichkin/otp_cheatsheet/master/pictures/gen_server_terminate.svg" width="100%">
