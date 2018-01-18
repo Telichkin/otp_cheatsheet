@@ -38,6 +38,6 @@ This cheat sheet is an attempt to present common parts of OTP behaviors in one p
 
 ## Contributing
 1. Fork it (https://github.com/Telichkin/otp_cheatsheet/fork)
-2. Open and edit CheatSheet.html in the draw.io
+2. Open and edit CheatSheet.html in the [draw.io](https://draw.io)
 3. Export edited images as SVG into your repository using settings below:
 4. Create a new Pull Request
